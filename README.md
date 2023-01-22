@@ -1,6 +1,6 @@
 # Repository.  
 
-Whole human atrium model code.
+Human 3D atrium model code.
 
 # Background.  
 
