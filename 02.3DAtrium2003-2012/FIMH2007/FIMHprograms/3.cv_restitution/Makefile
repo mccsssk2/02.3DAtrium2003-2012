@@ -1,0 +1,25 @@
+# Simple Makefile for the Sun 02 / avnode 02 Sun v 9a arch.
+#
+# C compiler and options
+#
+CC=    /opt/SUNWspro/bin/cc -xO5 -fast -xchip=ultra3 -xarch=v9b -xcache=64/32/4:8192/512/2 -xopenmp=parallel -xautopar -xloopinfo
+LIB=	-lm
+
+#
+# Object files
+#
+OBJ=  cvrestitution_fimh2007.o
+#
+# Compile
+#
+cvr	:$(OBJ)
+	$(CC) -o $@ $(OBJ) $(LIB)
+
+.c.o:
+	$(CC) -c $<
+
+#
+# Clean out object files and the executable.
+#
+clean:
+	rm *.o cvr
