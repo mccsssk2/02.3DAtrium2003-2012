@@ -15,7 +15,7 @@ This code is OpenMP based, and has no other dependencies.
 
 * OpenMP. (https://www.openmp.org/)  
 * GNU C  
-* Data visualization using ParaView  (Kitware).
+* Data visualization using ParaView  (https://www.kitware.com/open-source/).
 
 # Sources and data description.
 
