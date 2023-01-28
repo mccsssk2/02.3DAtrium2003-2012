@@ -1,11 +1,19 @@
 # Repository.  
 
-Human 3D atrium model code.
+Original human 3D atrium model code. (2003-2013).
 
 # Background.  
 
 This is one of the first human 3D atrium model that was developed. It used a geometry provided by
-collaborators in Germany, and simulates electrical activity in the cardiac chambers called atria.
+collaborators in Germany, and simulates electrical activity in the cardiac chambers called atria.  
+
+Some of the outputs that emerged from this program were:  
+* Kharche et al. (LNCS peer reviewed int. conf. proceedings). https://link.springer.com/chapter/10.1007/978-3-540-72907-5_14  
+* Kharche et al. (journal article). https://www.sciencedirect.com/science/article/pii/S0079610708000709
+* Kharche et al. (journal article). https://pubmed.ncbi.nlm.nih.gov/17905416/
+* Kharche et al. (journal article). https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/jphysiol.2012.229146
+
+This code was (is being) extensively used to support PhD thesis and research by others.
 
 # Dependencies.  
 
