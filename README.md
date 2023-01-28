@@ -47,11 +47,11 @@ As such, this code is not maintained nor supported but may be used as an educati
 
 # Provenance.
 
-Potential new releases of this code are handled by the lead developer and co-investigator Dr. SR Kharche (Lawson Health Institute, Canada).
+Potential new releases of this code are handled by the lead developer and co-investigator Dr. SR Kharche.
 
 # Acknowledements.
 
-This project was generously funded by the UK British Heart Foundation (2006-2009). roject.
+This project was generously funded by the UK British Heart Foundation (2006-2009). project.
 
 # Licence.
 
