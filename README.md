@@ -5,7 +5,9 @@ Original human 3D atrium model code. (2003-2013).
 # Background.  
 
 This is one of the first human 3D atrium model that was developed. It used a geometry provided by
-collaborators in Germany, and simulates electrical activity in the cardiac chambers called atria.  
+collaborators in Germany, and simulates electrical activity in the cardiac chambers called atria.
+In addition to the 3D FD solver, a representative cell to 3D pipeline is also provided to show
+how a multi-scale simulation could be performed.
 
 Some of the outputs that emerged from this program were:  
 * Kharche et al. (LNCS peer reviewed int. conf. proceedings). https://link.springer.com/chapter/10.1007/978-3-540-72907-5_14  
