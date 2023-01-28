@@ -40,11 +40,6 @@ Whereas it was used multiple times, it is now a suitable teaching and training i
 All the code comes with a Makefile, after which the user is expected to set up the environment for number of threads,
 and run the binary in that environment.
 
-I have used the above codes in several articles, the first of which is:
-Kharche et al. LNCS (2007); 4466: 129–138.  
-
-For others, please see list of publications upto 2012.
-
 # Uptake by other users.
 
 The above codes were used to support multiple PhD theses during 2006-2012 (Uni. Manchester) as well as ensuing
